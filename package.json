@@ -21,7 +21,7 @@
     "postcss-env-function": "^7.0.0",
     "postcss-import": "^16.1.0",
     "postcss-simple-vars": "^7.0.1",
-    "sass": "^1.83.0"
+    "sass": "^1.97.2"
   },
   "scripts": {
     "set:theme": "node ./set_theme.js",
