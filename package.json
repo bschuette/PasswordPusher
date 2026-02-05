@@ -6,7 +6,7 @@
     "@hotwired/stimulus-webpack-helpers": "^1.0.1",
     "@hotwired/turbo-rails": "^8.0.12",
     "@popperjs/core": "^2.11.8",
-    "@rails/activestorage": "^8.0.0",
+    "@rails/activestorage": "^8.1.200",
     "autoprefixer": "^10.4.20",
     "bootstrap": "^5.3.3",
     "bootstrap-icons": "^1.11.3",
